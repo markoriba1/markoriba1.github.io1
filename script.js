@@ -4,7 +4,7 @@ window.onload = function() {
 
     // Define the HTML content as a string (this can be fetched from a server or any other source)
     var htmlContent = `
-        <link rel="icon" href="/logo.jpg" type="image/icon type">
+        
         <h1 style="text-align: center;">Testing</h1>
         <div class="main">
             <div class="ad">

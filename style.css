@@ -1,13 +1,11 @@
 .ad {
-            background-color: black;
-            width: 100%;
-            height: 100%;
-            margin: 0.25%;
-            opacity: 70%;
-            border-radius: 4%;
-            
-            
-              
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    margin: 0.25%;
+    opacity: 70%;
+    border-radius: 4%;
+                      
 }
 .main{
     height: 25vh;
